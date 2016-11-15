@@ -13,4 +13,4 @@ Install Python3: <br />
 	For RedHat/RHEL/CentOS: `sudo yum install python` <br /> <br />
 Go To The Home Directory `cd`<br />
 Clone The Repository: `git clone https://github.com/divykjain/yobro.git`<br />
-Run install.sh: `bash install`
+Run install script: `bash install`
